@@ -1,0 +1,12 @@
+*{
+	margin: 2px;
+	background-color: lightgrey;
+}
+.head{
+	width: 1260px;
+	height: 40px;
+	background-color: #73FFAB;
+	float: left;
+	border-radius: 15px; 
+	border: solid lightgreen;
+}
